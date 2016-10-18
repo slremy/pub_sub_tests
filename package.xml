@@ -1,0 +1,11 @@
+<package>
+  <name>pub_sub_tests</name>
+  <version>1.0.0</version>
+  <description>
+    This package provides foo capability.
+  </description>
+  <maintainer email="sekouremy@g..edu">Sekou Remy</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>

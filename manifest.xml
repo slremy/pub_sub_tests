@@ -1,0 +1,16 @@
+<package>
+  <description brief="pub_sub_tests">
+
+     pub_sub_test
+
+  </description>
+  <author>Sekou Remy</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/pub_sub_tests</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+
+</package>
+
+
